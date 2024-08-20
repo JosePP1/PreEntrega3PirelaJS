@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre":"Nombre de producto 1",
+        "precio": 14.080,
+        "imagen": "images/blue_jewel_cross_pendant.webp"
+    },
+    {
+        "id": 2,
+        "nombre":"Nombre de producto 2",
+        "precio": 36.300,
+        "imagen": "images/coffin_bag.webp"
+    },
+    {
+        "id": 3,
+        "nombre":"Nombre de producto 3",
+        "precio": 4.620,
+        "imagen": "images/cross_arch_lace_choker.webp"
+    },
+    {
+        "id": 4,
+        "nombre":"Nombre de producto 4",
+        "precio": 3.960,
+        "imagen": "images/cross_logo_emblem_badge.webp"
+    },
+    {
+        "id": 5,
+        "nombre":"Nombre de producto 5",
+        "precio": 13.200,
+        "imagen": "images/cross_logo_spike_chain_choker.webp"
+    },
+    {
+        "id": 6,
+        "nombre":"Nombre de producto 6",
+        "precio": 5.500,
+        "imagen": "images/crystal_candelabra_earrings.webp"
+    },
+    {
+        "id": 7,
+        "nombre":"Nombre de producto 7",
+        "precio": 4.180,
+        "imagen": "images/crystal_candelabra_necklace.webp"
+    },
+    {
+        "id": 8,
+        "nombre":"Nombre de producto 8",
+        "precio": 11.000,
+        "imagen": "images/feather_headdress.webp"
+    },
+    {
+        "id": 9,
+        "nombre":"Nombre de producto 9",
+        "precio": 7.700,
+        "imagen": "images/m_cross_rose_collar.webp"
+    },
+    {
+        "id": 10,
+        "nombre":"Nombre de producto 10",
+        "precio": 5.720,
+        "imagen": "images/m_rose_cross_bracelet.webp"
+    },
+    {
+        "id": 11,
+        "nombre":"Nombre de producto 11",
+        "precio": 6.600,
+        "imagen": "images/saint_fille_ear_cuff.webp"
+    },
+    {
+        "id": 12,
+        "nombre":"Nombre de producto 12",
+        "precio": 8.800,
+        "imagen": "images/saint_fille_necklace.webp"
+    }
+]
